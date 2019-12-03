@@ -15,11 +15,11 @@
             CdnDebugPath = "http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.1.js"
         });
 
-        // Dynamically create new timer
+        // Creazione timer
         System.Timers.Timer timScheduledTask = new System.Timers.Timer();
         timScheduledTask.Interval = 5000;
         timScheduledTask.Enabled = true;
-        // Add handler for Elapsed event
+        //Esecuzione del metodo al timeout
         timScheduledTask.Elapsed += new System.Timers.ElapsedEventHandler(timScheduledTask_Elapsed);
         timScheduledTask.Stop();
         timScheduledTask.Start();
