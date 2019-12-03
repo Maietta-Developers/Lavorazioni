@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<merchants>
+  <merchant>
+    <id>1</id>
+    <nome>Amazon.it</nome>
+    <nazione>Italia</nazione>
+    <imageUrl>pics/merchant/it.png</imageUrl>
+    <serviceUrl>https://mws.amazonservices.it</serviceUrl>
+    <marketPlaceId>APJ6JRA9NG5V4</marketPlaceId>
+  </merchant>
+  <merchant>
+    <id>2</id>
+    <nome>Amazon.es</nome>
+    <nazione>Spagna</nazione>
+    <imageUrl>pics/merchant/es.png</imageUrl>
+    <serviceUrl>https://mws.amazonservices.es</serviceUrl>
+    <marketPlaceId>A1RKKUPIHCS9HS</marketPlaceId>
+  </merchant>
+  <merchant>
+    <id>3</id>
+    <nome>Amazon.fr</nome>
+    <nazione>Francia</nazione>
+    <imageUrl>pics/merchant/fr.png</imageUrl>
+    <serviceUrl>https://mws.amazonservices.fr</serviceUrl>
+    <marketPlaceId>A13V1IB3VIYZZH</marketPlaceId>
+  </merchant>
+  <merchant>
+    <id>4</id>
+    <nome>Amazon.de</nome>
+    <nazione>Germania</nazione>
+    <imageUrl>pics/merchant/de.png</imageUrl>
+    <serviceUrl>https://mws.amazonservices.de</serviceUrl>
+    <marketPlaceId>A1PA6795UKMFR9</marketPlaceId>
+  </merchant>
+  <merchant>
+    <id>5</id>
+    <nome>Amazon.co.uk</nome>
+    <nazione>Regno Unito</nazione>
+    <imageUrl>pics/merchant/uk.png</imageUrl>
+    <serviceUrl>https://mws.amazonservices.co.uk</serviceUrl>
+    <marketPlaceId>A1F83G8C2ARO7P</marketPlaceId>
+  </merchant>
+</merchants>

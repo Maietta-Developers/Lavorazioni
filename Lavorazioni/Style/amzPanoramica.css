@@ -1,0 +1,126 @@
+﻿a {
+    text-decoration: none;
+    color: black;
+}
+
+#mainTab {
+    width: 800px;
+    font-family: Cambria;
+}
+
+#tabHeader, tr, th, td {
+    width: 1350px;
+    font-family: Cambria;
+    /*border: 1px solid black;*/
+}
+
+#tabAmazon {
+    width: 1500px;
+    font-family: Cambria;
+    border-collapse: collapse;
+}
+
+.btnGrid {
+    width: 25px;
+    height: 25px;
+}
+
+.tdFirstRow {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border-bottom: 1pt solid black;
+}
+
+.tdBottomBorderBlack {
+    padding-top: 10px;
+    border-bottom: 1pt solid black;
+}
+
+.tdBottomBorderWhite {
+    /*padding-top: 10px;*/
+    border-bottom: 1pt solid white;
+}
+
+.tdBottomBorderGray {
+    border-bottom: 1pt solid lightgray;
+}
+
+.imgSend {
+    vertical-align:middle;
+    
+}
+
+.dropTipoR {
+    margin-left: 12px;
+}
+
+.fixedCols {
+    white-space: nowrap;
+
+}
+
+.editCols {
+    white-space: nowrap;
+}
+
+.alternateRow {
+    background-color: lightgray;
+}
+
+.alternateRow > td > input {
+    background-color: lightgray;
+}
+
+.normalRow {
+    background-color: white;
+}
+
+.clockTime {
+    vertical-align: middle;
+}
+
+.tabControl {
+    padding-left:110px;
+}
+
+#imbInvoicePrime {
+    width: 120px;
+    vertical-align: middle;
+}
+
+.LockOff { 
+         display: none; 
+         visibility: hidden; 
+      } 
+
+.LockOn { 
+    display: block; 
+    visibility: visible; 
+    position: absolute; 
+    z-index: 999; 
+    top: 0px; 
+    left: 0px; 
+    width: 105%; 
+    height: 105%; 
+    background-color: #ccc; 
+    text-align: center; 
+    padding-top: 20%; 
+    filter: alpha(opacity=75); 
+    opacity: 0.75; 
+} 
+
+.Rounded{
+    font-size:medium;
+    font-weight:bold;
+    color:white;
+    font-family:Arial;
+    background:#666666;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    padding:10px;
+}
+
+.ImgMiddle{
+    vertical-align:middle;
+}

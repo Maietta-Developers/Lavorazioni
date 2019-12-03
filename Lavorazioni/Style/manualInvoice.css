@@ -1,0 +1,49 @@
+﻿body {
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#mainTab {
+    width: 800px;
+    font-family: Cambria;
+}
+
+.btnGrid {
+    width: 25px;
+    height: 25px;
+}
+
+/*#tabHeader {
+    width: 800px;
+    font-family: Cambria;
+}
+
+#tabAmazon {
+    width: 1200px;
+    font-family: Cambria;
+    border-collapse: collapse;
+}
+
+
+
+.tdFirstRow {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border-bottom: 1pt solid black;
+}
+
+.tdBottomBorderBlack {
+    padding-top: 10px;
+    border-bottom: 1pt solid black;
+}
+
+.tdBottomBorderWhite {
+    border-bottom: 1pt solid white;
+}
+
+.tdBottomBorderGray {
+    border-bottom: 1pt solid lightgray;*/

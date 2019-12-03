@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stati_scheda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<stato_scheda>
+		<id>1</id>
+		<nome>ordine importato</nome>
+		<ordinamento>1</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>2</id>
+		<nome>apre lavorazione</nome>
+		<ordinamento>2</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>3</id>
+		<nome>richiesta allegato</nome>
+		<ordinamento>3</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>4</id>
+		<nome>stampa ricevuta cc</nome>
+		<ordinamento>4</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>5</id>
+		<nome>caricare allegato</nome>
+		<ordinamento>5</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>6</id>
+		<nome>bozza inviata</nome>
+		<ordinamento>6</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>7</id>
+		<nome>bozza confermata</nome>
+		<ordinamento>7</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>8</id>
+		<nome>in prestampa</nome>
+		<ordinamento>8</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>9</id>
+		<nome>lavoro pronto</nome>
+		<ordinamento>9</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>10</id>
+		<nome>stampa ricevute mag</nome>
+		<ordinamento>10</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>11</id>
+		<nome>stampa fattura</nome>
+		<ordinamento>11</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>12</id>
+		<nome>comunicazione spedizione</nome>
+		<ordinamento>12</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>13</id>
+		<nome>richiesta feedback</nome>
+		<ordinamento>13</ordinamento>
+	</stato_scheda>
+	<stato_scheda>
+		<id>14</id>
+		<nome>scheda chiusa</nome>
+		<ordinamento>14</ordinamento>
+	</stato_scheda>
+</stati_scheda>

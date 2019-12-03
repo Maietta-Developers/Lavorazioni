@@ -1,0 +1,15 @@
+﻿#wrapper {
+    font-family: Cambria;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#labRedCode {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+

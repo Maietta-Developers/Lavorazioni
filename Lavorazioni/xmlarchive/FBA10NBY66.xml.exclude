@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<notes>
+  <note>
+    <sku>0H-EV05-ATCW</sku>
+    <value>cappello bianco</value>
+  </note>
+  <note>
+    <sku>2V-G6B4-WLMC</sku>
+    <value>cappello nero</value>
+  </note>
+  <note>
+    <sku>CF-C-452-RO</sku>
+    <value>maiale rosso</value>
+  </note>
+  <note>
+    <sku>FBA_EOA-B8969-000</sku>
+    <value>summa 301</value>
+  </note>
+  <note>
+    <sku>LY-VMT0-EVMD</sku>
+    <value>fon rosso</value>
+  </note>
+</notes>

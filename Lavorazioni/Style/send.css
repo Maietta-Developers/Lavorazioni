@@ -1,0 +1,28 @@
+﻿body {
+}
+
+#tabMail {
+    width: 600px;
+    font-family: Cambria;
+}
+
+#tabIntest {
+    width: 600px;
+    font-family: Cambria;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#labStatus{
+    font-weight: bold;
+    color: red;
+    font-size: 16px;
+}
+
+#labBack{
+    font-weight: bold;
+    font-size: 14px;
+}

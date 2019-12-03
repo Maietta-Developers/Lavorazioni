@@ -1,0 +1,28 @@
+﻿body {
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#LavTab {
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightgray;
+    width: 910px;
+}
+
+#tabRivCl {
+    padding-left: 20px;
+}
+
+#tabName {
+    padding-left: 20px;
+}
+
+.cellDownGrid {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<priorita>
+  <npriorita>
+    <id>1</id>
+    <valore>1</valore>
+    <nome>Bassa</nome>
+    <colore>#519643</colore>
+  </npriorita>
+  <npriorita>
+    <id>2</id>
+    <valore>2</valore>
+    <nome>Media</nome>
+    <colore>#A1BF37</colore>
+  </npriorita>
+  <npriorita>
+    <id>3</id>
+    <valore>3</valore>
+    <nome>Normale</nome>
+    <colore>#F8DC28</colore>
+  </npriorita>
+  <npriorita>
+    <id>4</id>
+    <valore>4</valore>
+    <nome>Alta</nome>
+    <colore>#DC901B</colore>
+  </npriorita>
+  <npriorita>
+    <id>5</id>
+    <valore>5</valore>
+    <nome>Urgente</nome>
+    <colore>#C6362E</colore>
+  </npriorita>
+</priorita>

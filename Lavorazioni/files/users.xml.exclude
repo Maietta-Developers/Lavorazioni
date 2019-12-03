@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <name>Anna Esposito Alaia</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>4+bkpNMvcQmTtz61HzBKug==</type>
+    <email>anna.esposito@maiettasrl.com</email>
+    <image>true</image>
+    <idop>8</idop>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Simona Maietta</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>Q+ds3atWoaqgJ8E7h+Bq5A==</type>
+    <email>simona.maietta@maiettasrl.com</email>
+    <image>true</image>
+    <idop>9</idop>
+  </user>
+  <user>
+    <id>3</id>
+    <name>Bruna Preziosi</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>gCz97x3oojqWFkDw77TYfA==</type>
+    <email>bruna.preziosi@maiettasrl.com</email>
+    <image>true</image>
+    <idop>10</idop>
+  </user>
+  <user>
+    <id>4</id>
+    <name>Michela Colucci</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>LyLeWJnQlIokHObh2Qq60g==</type>
+    <email>michela.colucci@maiettasrl.com</email>
+    <image>true</image>
+    <idop>3,15</idop>
+  </user>
+  <user>
+    <id>5</id>
+    <name>Gianni Maietta</name>
+    <password>W+c0yv7jrAV2UG/02IxfMQ==</password>
+    <type>b44XvzPCJ+/YHkE299AJdw==</type>
+    <email>gianni.maietta@maiettasrl.com</email>
+    <image>true</image>
+    <idop>7,16</idop>
+  </user>
+  <user>
+    <id>6</id>
+    <name>Maria Grazia De Luca</name>
+    <password>fee9SPP8zfIWM6R42B7n4A==</password>
+    <type>SAzIfRLuo6ZEg14PQAopNQ==</type>
+    <email>mariagrazia.deluca@maiettasrl.com</email>
+    <image>true</image>
+    <idop>11</idop>
+  </user>
+  <user>
+    <id>7</id>
+    <name>Annalea Guarino Grimaldi</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>LGwzp1G7iXaljtXPW+RMhA==</type>
+    <email>annalea.grimaldi@maiettasrl.com</email>
+    <image>True</image>
+    <idop>12</idop>
+  </user>
+  <user>
+    <id>8</id>
+    <name>Patrizia Quaranta</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>INow4J9NS2X86pBld2qmaw==</type>
+    <email>patrizia.quaranta@maiettasrl.com</email>
+    <image>true</image>
+    <idop>13</idop>
+  </user>
+  <user>
+    <id>9</id>
+    <name>Rino Maietta</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>9/I43fVh/7q88TL027ZYEA==</type>
+    <email>francesco.biondi@maiettasrl.com</email>
+    <image>true</image>
+    <idop>17</idop>
+  </user>
+  <user>
+    <id>10</id>
+    <name>Rosanna Vassallo</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>AKHQEGLHWY7/NP3dqoPAtQ==</type>
+    <email>rosanna.vassallo@maiettasrl.com</email>
+    <image>true</image>
+    <idop>14</idop>
+  </user>
+  <user>
+    <id>11</id>
+    <name>Simonetta Sandullo</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>YBBM3BBFj+UhI7f0cT5wMQ==</type>
+    <email>simona.sandullo@maiettasrl.com</email>
+    <image>true</image>
+    <idop>5,18</idop>
+  </user>
+  <user>
+    <id>13</id>
+    <name>francesco</name>
+    <password>VZ8P1o9QAkUDChFa76lW7g==</password>
+    <type>Rdme5LwNEVYJxlcVMOezDg==</type>
+    <email>francesco.biondi@maiettasrl.com</email>
+    <image>false</image>
+    <idop>1</idop>
+  </user>
+  <user>
+    <id>14</id>
+    <name>web</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>3Y26kcrmAZgVCyL2AYl7Bg==</type>
+    <email>francesco.biondi@maiettasrl.com</email>
+    <image>true</image>
+    <idop>1</idop>
+  </user>
+  <user>
+    <id>15</id>
+    <name>Lucio Lomazzo</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>AKHQEGLHWY7/NP3dqoPAtQ==</type>
+    <email>lucio.lomazzo@maiettasrl.com</email>
+    <image>true</image>
+    <idop>2</idop>
+  </user>
+  <user>
+    <id>16</id>
+    <name>Serena Matarazzo</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>AKHQEGLHWY7/NP3dqoPAtQ==</type>
+    <email>serena.matarazzo@maiettasrl.com</email>
+    <image>true</image>
+    <idop>4</idop>
+  </user>
+  <user>
+    <id>17</id>
+    <name>Luca Cristaudo</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>AKHQEGLHWY7/NP3dqoPAtQ==</type>
+    <email>luca.cristaudo@maiettasrl.com</email>
+    <image>true</image>
+    <idop>6</idop>
+  </user>
+  <user>
+    <id>18</id>
+    <name>Massimo Santomauro</name>
+    <password>fbQ8slUwithk3OxJGHJQ3A==</password>
+    <type>hlyt0LWn9OWPf83i2pKkTQ==</type>
+    <email>massimo.santomauro@maiettasrl.com</email>
+    <image>True</image>
+    <idop>19</idop>
+  </user>
+</users>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<labels>
+  <label>
+    <id>SM0507</id>
+    <nome>(105x59) SM0507</nome>
+    <labelW>105</labelW>
+    <labelH>59</labelH>
+    <TopMarg>0</TopMarg>
+    <LeftMarg>0</LeftMarg>
+    <Rows>5</Rows>
+    <Cols>2</Cols>
+    <infraCols>0</infraCols>
+    <infraRows>0</infraRows>
+  </label>
+  <label>
+    <id>SM0510</id>
+    <nome>(70x37) SM0510</nome>
+    <labelW>70</labelW>
+    <labelH>37</labelH>
+    <TopMarg>0</TopMarg>
+    <LeftMarg>0</LeftMarg>
+    <Rows>8</Rows>
+    <Cols>3</Cols>
+    <infraCols>0</infraCols>
+    <infraRows>0</infraRows>
+  </label>
+</labels>

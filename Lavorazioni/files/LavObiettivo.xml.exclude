@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<obiettivi>
+  <obiettivo>
+    <id>2</id>
+    <nome>Stampa</nome>
+  </obiettivo>
+  <obiettivo>
+    <id>3</id>
+    <nome>Bozza e Stampa</nome>
+  </obiettivo>
+  <obiettivo>
+    <id>4</id>
+    <nome>Ristampa</nome>
+  </obiettivo>
+  <obiettivo>
+    <id>1</id>
+    <nome>Bozza</nome>
+  </obiettivo>
+</obiettivi>

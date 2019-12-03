@@ -1,0 +1,42 @@
+﻿body {
+    font-family: Cambria;
+}
+
+#LavGrid {
+    width: 1450px;
+    padding-bottom: 20px;
+}
+
+#LavGrid th
+{
+    background-color: lightgray;
+    color:Black;
+    
+}
+
+#divBtnAttach {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#tabFooter {
+    width: 1200px;
+}
+
+#tabFooter td {
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+#hypRefresh {
+    margin-left: 40px;
+}
+
+#hylMaps {
+    vertical-align: super;
+}

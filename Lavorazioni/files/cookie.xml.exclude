@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cookies>
+  <cookie>
+    <idlav>1</idlav>
+    <idoperatore>1</idoperatore>
+    <nomestato>da stampare@24/08/2016 16:03:53</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>2</idlav>
+    <idoperatore>1</idoperatore>
+    <nomestato>bozza da fare@05/08/2016 18:05:14</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>1</idlav>
+    <idoperatore>2</idoperatore>
+    <nomestato>bozza da fare@04/08/2016 11:01:12</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>1</idlav>
+    <idoperatore>4</idoperatore>
+    <nomestato>in attesa merce</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>2</idlav>
+    <idoperatore>2</idoperatore>
+    <nomestato>bozza da correggere@04/08/2016 09:52:23</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>4</idlav>
+    <idoperatore>2</idoperatore>
+    <nomestato>lavoro pronto@26/08/2016 10:51:24</nomestato>
+  </cookie>
+  <cookie>
+    <idlav>3</idlav>
+    <idoperatore>2</idoperatore>
+    <nomestato>in attesa merce@25/08/2016 16:13:43</nomestato>
+  </cookie>
+</cookies>

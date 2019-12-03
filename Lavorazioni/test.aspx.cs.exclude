@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+using System.Data;
+using System.Data.OleDb;
+using System.IO;
+
+public partial class test : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        ClientScript.GetPostBackEventReference(this, "");
+
+        //string SSnexttoken = Request.QueryString["amzToken"].ToString();
+        imbNextPag.Visible = true;
+        imbNextPag.PostBackUrl = "amzPanoramica.aspx";
+
+        ClientScript.RegisterStartupScript(this.GetType(), "amzTokenPb", "<script type='text/javascript' language='javascript'>__doPostBack('imbNextPag','OnClick');</script>");
+        /*ClientScript.RegisterStartupScript(this.GetType(), "amzTokenPb",
+            "<script type='text/javascript' language='javascript'>" +
+            //"window.open('download.aspx?pdf=" + HttpUtility.UrlEncode("1000") + "&token=" + Session["token"].ToString() + "', '_blank');" +
+            "__doPostBack(imbNextPag,'OnClick');</script>");*/
+
+
+    }
+}

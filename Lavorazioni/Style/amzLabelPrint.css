@@ -1,0 +1,24 @@
+﻿body {
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#tabInfo {
+    width: 900px;
+    font-family: Cambria;
+}
+
+#tabPaper {
+    font-family: Cambria;
+    border-width: 1px;
+}
+
+#tabPaper td {
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+}

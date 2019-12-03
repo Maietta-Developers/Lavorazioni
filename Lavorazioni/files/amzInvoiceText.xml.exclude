@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<invoiceText>
+  <text>
+    <merchantId>1</merchantId>
+    <ringraz>Ti ringraziamo per aver acquistato da My Custom Style su Amazon.</ringraz>
+    <ordine>\tOrdine Nr.: </ordine>
+    <data>\tData: </data>
+    <confReg>Spese conf. regalo</confReg>
+    <spSped>Spese di spedizione</spSped>
+    <totale>Totale</totale>
+    <pagam>\tPagamento</pagam>
+    <ccard>CARTA DI CREDITO</ccard>
+    <dettagli>Dettagli di spedizione</dettagli>
+    <message>Grazie per aver comprato nel Marketplace di Amazon. Per fornire il tuo feedback sul venditore, visita la pagina 'www.amazon.it/feedback'. 
+      Se desideri contattare il venditore, seleziona il link 'Il mio account', che trovi in alto a destra su ogni pagina di Amazon.it, e accedi alla sezione 'I miei ordini'. 
+      Individua l'ordine in questione e clicca su 'Contatta il venditore'.</message>
+    <invoice>Ricevuta Nr.: </invoice>
+    <intest>\n\nintestata a:\n</intest>
+    <dataOrd>Data ordine:</dataOrd>
+    <tipoSp>\n\nTipo di spedizione: </tipoSp>
+    <nomeAcq>\nNome acquirente: </nomeAcq>
+    <FooterText1>MyCustomStyle.it</FooterText1>
+    <FooterText2>è un marchio commerciale di Maietta Distribuzione s.r.l. - Via Cerreta, 3 – 83013 Mercogliano (AV) - P.IVA 02283430649</FooterText2>
+    <FooterText3>Call Center: 0825 788 598  |  Email: amazon@mcs.srl  -  info@mycustomstyle.it</FooterText3>
+    <costo>Costo</costo>
+    <quantita>Quantità</quantita>
+</text>
+  <text>
+    <merchantId>2</merchantId>
+    <ringraz>Gracias por la compra de My Custom Style en Amazon.</ringraz>
+    <ordine>\tOrden Nr.: </ordine>
+    <data>\tFecha: </data>
+    <confReg>Gastos de caja de regalo</confReg>
+    <spSped>Gastos de envío</spSped>
+    <totale>Total</totale>
+    <pagam>\tPago</pagam>
+    <ccard>Tarjeta de crédito</ccard>
+    <dettagli>Detalles del envío</dettagli>
+    <message>Gracias por la compra en mercado de Amazon. Para proporcionar comentarios sobre el vendedor, por favor visite 'www.amazon.it/feedback'. 
+      Si desea ponerse en contacto con el vendedor, seleccione el enlace 'Mi cuenta', que se puede encontrar en la parte superior derecha de cada página Amazon.it, y obtener acceso a los 'Mis órdenes'. 
+      Busque el pedido en cuestión y haga clic en 'Contacto con el vendedor'.</message>
+    <invoice>Recibo Nr.: </invoice>
+    <intest>\n\n a nombre de:\n</intest>
+    <dataOrd>Fecha de la orden:</dataOrd>
+    <tipoSp>\n\nTipo de envio: </tipoSp>
+    <nomeAcq>\nNombre de comprador: </nomeAcq>
+    <FooterText1>MyCustomStyle.it</FooterText1>
+    <FooterText2>es una marca comercial de Maietta Distribuzione s.r.l. - Via Cerreta, 3 – 83013 Mercogliano (AV) - P.IVA 02283430649</FooterText2>
+    <FooterText3>Call Center: 0825 788 598  |  Email: amazon@mcs.srl  -  info@mycustomstyle.it</FooterText3>
+    <costo>Coste</costo>
+    <quantita>Cantidad</quantita>
+  </text>
+  <text>
+    <merchantId>3</merchantId>
+    <ringraz>Merci d'avoir acheté de My custom style sur Amazon.</ringraz>
+    <ordine>\tCommande Nr.: </ordine>
+    <data>\tDate: </data>
+    <confReg>Frais paquet cadeau</confReg>
+    <spSped>Frais de transport</spSped>
+    <totale>Total</totale>
+    <pagam>\tPaiement</pagam>
+    <ccard>Carte de crédit</ccard>
+    <dettagli>Détails de transport</dettagli>
+    <message>Merci d'avoir acheté sur Amazon Marketplace. Pour envoyer vos commentaires sur le vendeur, s'il vous plaît visitez 'www.amazon.it/feedback'. 
+      Si vous souhaitez contacter le vendeur, cliquez sur le lien 'Mon compte', que vous pouvez trouver en haut à droite de chaque page Amazon.it et accéder aux 'Mes commandes'. 
+      Repérez la commande en question et cliquez sur 'Contactez le vendeur'.</message>
+    <invoice>Facture Nr.: </invoice>
+    <intest>\n\nEnregistré à:\n</intest>
+    <dataOrd>Date de la commande:</dataOrd>
+    <tipoSp>\n\nType de l'expédition: </tipoSp>
+    <nomeAcq>\nNom de l'acheteur: </nomeAcq>
+    <FooterText1>MyCustomStyle.it</FooterText1>
+    <FooterText2>c'est une marque commerciale de Maietta Distribuzione s.r.l. - Via Cerreta, 3 – 83013 Mercogliano (AV) - P.IVA 02283430649</FooterText2>
+    <FooterText3>Call Center: 0825 788 598  |  Email: amazon@mcs.srl  -  info@mycustomstyle.it</FooterText3>
+    <costo>Coût</costo>
+    <quantita>Quantité</quantita>
+  </text>
+</invoiceText>

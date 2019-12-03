@@ -1,0 +1,90 @@
+﻿body {
+    font-size: 14px;
+}
+
+#txDescrizione {
+    resize: none;
+}
+
+#LavTab {
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightgray;
+    width: 910px;
+}
+
+#tabRivCl {
+    padding-left: 20px;
+}
+
+#tabName {
+    padding-left: 20px;
+}
+
+.cellDownGrid {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    /*padding-left: 12px;
+    padding-right: 12px;
+    border-left-color: black;
+    border-left-width: 1px;
+    border-left-style: solid;*/
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ #tabStati {
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightgray;
+    width: 910px;
+    font-weight: bold;
+    font-size:12px; 
+}
+
+#imgBrowseLav {
+    width: 45px;
+    height: 45px;
+    vertical-align:middle;
+}
+
+#imgBrowseCli, #imgBrowseRiv {
+    width: 25px;
+    height: 25px;
+    vertical-align:middle;
+}
+
+#trvDirectories img { 
+    width:16px; 
+    height:16px; 
+
+}
+
+.fumetto {
+    border-radius: 15px;
+    border: 1px black solid;
+}
+
+.LockOff { 
+         display: none; 
+         visibility: hidden; 
+      } 
+
+.LockOn { 
+    display: block; 
+    visibility: visible; 
+    position: absolute; 
+    z-index: 999; 
+    top: 0px; 
+    left: 0px; 
+    width: 105%; 
+    height: 105%; 
+    background-color: #ccc; 
+    text-align: center; 
+    padding-top: 20%; 
+    filter: alpha(opacity=75); 
+    opacity: 0.75; 
+} 

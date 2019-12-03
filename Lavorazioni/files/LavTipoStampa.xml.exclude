@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<stampe>
+  <stampa>
+    <id>1</id>
+    <nome>Stampa diretta cotone</nome>
+    <id_mac>1</id_mac>
+  </stampa>
+  <stampa>
+    <id>2</id>
+    <nome>Stampa UV</nome>
+    <id_mac>2</id_mac>
+  </stampa>
+  <stampa>
+    <id>3</id>
+    <nome>Sublimazione</nome>
+    <id_mac>3</id_mac>
+  </stampa>
+  <stampa>
+    <id>4</id>
+    <nome>Stampa Carta</nome>
+    <id_mac>4</id_mac>
+  </stampa>
+  <stampa>
+    <id>5</id>
+    <nome>Stampa tela</nome>
+    <id_mac>6</id_mac>
+  </stampa>
+  <stampa>
+    <id>6</id>
+    <nome>Adesivi</nome>
+    <id_mac>7</id_mac>
+  </stampa>
+  <stampa>
+    <id>7</id>
+    <nome>Ricamo</nome>
+    <id_mac>8</id_mac>
+  </stampa>
+  <stampa>
+    <id>8</id>
+    <nome>Adesivi resinati</nome>
+    <id_mac>7</id_mac>
+  </stampa>
+  <stampa>
+    <id>9</id>
+    <nome>Banner/PVC</nome>
+    <id_mac>7</id_mac>
+  </stampa>
+  <stampa>
+    <id>10</id>
+    <nome>RollUp</nome>
+    <id_mac>7</id_mac>
+  </stampa>
+  <stampa>
+    <id>11</id>
+    <nome>Spille</nome>
+    <id_mac>9</id_mac>
+  </stampa>
+  <stampa>
+    <id>12</id>
+    <nome>Card/Badge</nome>
+    <id_mac>10</id_mac>
+  </stampa>
+  <stampa>
+    <id>13</id>
+    <nome>Transfer</nome>
+    <id_mac>7</id_mac>
+  </stampa>
+</stampe>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<macchine>
+  <macchina>
+    <id>1</id>
+    <nome>F2000</nome>
+    <IP>10.0.0.83</IP>
+    <descrizione>Stampante digitale cotone</descrizione>
+    <stampa_def_id>1</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>2</id>
+    <nome>UV Roland</nome>
+    <IP>10.0.0.77</IP>
+    <descrizione>Stampante UV</descrizione>
+    <stampa_def_id>2</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>11</id>
+    <nome>UV Roland Grande</nome>
+    <IP>10.0.0.95</IP>
+    <descrizione>Stampante UV grande formato</descrizione>
+    <stampa_def_id>2</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>3</id>
+    <nome>F6000</nome>
+    <IP>10.0.0.88</IP>
+    <descrizione>Plotter sublimazione</descrizione>
+    <stampa_def_id>3</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>4</id>
+    <nome>WF-R8590</nome>
+    <IP>10.0.0.86</IP>
+    <descrizione>Stampante Ink</descrizione>
+    <stampa_def_id>4</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>5</id>
+    <nome>Xerox 550</nome>
+    <IP>10.0.0.91</IP>
+    <descrizione>Stampante Laser</descrizione>
+    <stampa_def_id>4</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>6</id>
+    <nome>SP9900</nome>
+    <IP>10.0.0.84</IP>
+    <descrizione>Plotter Carta/Tela</descrizione>
+    <stampa_def_id>5</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>7</id>
+    <nome>S70600</nome>
+    <IP>10.0.0.93</IP>
+    <descrizione>Plotter grande formato</descrizione>
+    <stampa_def_id>9</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>8</id>
+    <nome>Brother PR1000</nome>
+    <IP>0.0.0.0</IP>
+    <descrizione>Ricamatrice</descrizione>
+    <stampa_def_id>8</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>9</id>
+    <nome>Pressa Spille</nome>
+    <IP>0.0.0.0</IP>
+    <descrizione>Pressa spille</descrizione>
+    <stampa_def_id>11</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>10</id>
+    <nome>Zebra ZXP3</nome>
+    <IP>0.0.0.0</IP>
+    <descrizione>Stampante Card/Badge</descrizione>
+    <stampa_def_id>12</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>12</id>
+    <nome>Modico</nome>
+    <IP>0.0.0.0</IP>
+    <descrizione>Stampante Timbri</descrizione>
+    <stampa_def_id>14</stampa_def_id>
+  </macchina>
+  <macchina>
+    <id>13</id>
+    <nome>Label Drop</nome>
+    <IP>0.0.0.0</IP>
+    <descrizione>Resinatrice</descrizione>
+    <stampa_def_id>8</stampa_def_id>
+  </macchina>
+</macchine>

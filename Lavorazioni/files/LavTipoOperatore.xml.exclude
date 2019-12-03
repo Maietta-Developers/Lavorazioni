@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tipioperatore>
+  <tipo>
+    <id>1</id>
+    <nome>Operatore</nome>
+    <sigla>OP</sigla>
+  </tipo>
+  <tipo>
+    <id>2</id>
+    <nome>Commerciale</nome>
+    <sigla>COMM</sigla>
+  </tipo>
+  <tipo>
+    <id>3</id>
+    <nome>Supervisore</nome>
+    <sigla>SV</sigla>
+  </tipo>
+  <tipo>
+    <id>4</id>
+    <nome>Grafico</nome>
+    <sigla>GR</sigla>
+  </tipo>
+  <tipo>
+    <id>5</id>
+    <nome>Magazziniere</nome>
+    <sigla>MG</sigla>
+  </tipo>
+</tipioperatore>

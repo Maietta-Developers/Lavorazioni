@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tipi_ordine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tipo_ordine>
+		<id>1</id>
+		<descrizione>Personalizzato</descrizione>
+    <sigla>P</sigla>
+	</tipo_ordine>
+	<tipo_ordine>
+		<id>2</id>
+		<descrizione>Grafica</descrizione>
+    <sigla>G</sigla>
+	</tipo_ordine>
+	<tipo_ordine>
+		<id>3</id>
+		<descrizione>Vendita_diretta</descrizione>
+    <sigla>A</sigla>
+	</tipo_ordine>
+</tipi_ordine>
