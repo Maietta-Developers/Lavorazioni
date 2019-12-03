@@ -26,7 +26,7 @@
     }
 
     void timScheduledTask_Elapsed(object sender, System.Timers.ElapsedEventArgs e){
-        Console.Write("MIAO");
+        Console.Write("Azione temporizzata");
     }
 
     void Application_End(object sender, EventArgs e) 
